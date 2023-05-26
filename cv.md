@@ -21,6 +21,7 @@ Since I had to learn French at school, I learned English on my own in my spare t
 **Languages:**
 + Russian, Belarusian
 + French (in the learning process)
++ Italian
 + English (level A2, not documented, in the learning process)
 ##
 **Code example:**
