@@ -1,1 +1,88 @@
+body {
+ background-color: #f5f5f5;
+ font-family: "Montserrat";
+}
 
+.whitecolor {
+ color: #ffffff;
+
+}
+
+.shadow {
+ box-shadow: 10px 10px 10px #CECECE;
+}
+
+h1 {
+ font-size: 50;
+ line-height: 0.5;
+}
+
+h2 {
+ font-size: 30;
+ font-family: "Montserrat Light";
+}
+
+h3 {
+ font-size: 30;
+ font-family: "Montserrat Light";
+}
+
+h4 {
+ font-size: 20;
+ font-family: "Montserrat Regular";
+}
+
+p {
+ font-size: 18;
+ font-family: "Montserrat Light";
+}
+
+a {
+ font-size: 18;
+ font-family: "Montserrat Light";
+}
+
+hr {
+ width: 80px;
+ margin: 10px 0%;
+}
+
+.main {
+    width: available;
+    height: available;
+ margin: 5% 5%;
+}
+
+.leftpane {
+ padding: 5% 5%;
+ width: 25%;
+ min-width: 300px;
+ height: 1850px;
+ float: left; 
+ background-color: #996666;
+ color: white;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.rightpane {
+ padding: 5% 5%;
+ width: 55%;
+ min-width: 700px;
+ height: 1850px;
+ float: right;
+ color: #996666;
+ background-color: #FFFFFF;
+    border-collapse: collapse;
+}
+
+.whitetextblock {
+ padding: 2% 10%;
+ color: white;
+    text-align: left;
+}
+
+.themeblock {
+ margin: 15% 0%;
+ line-height: 1.2;
+}
